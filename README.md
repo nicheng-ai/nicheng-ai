@@ -13,7 +13,7 @@
 
 I am **Ni Cheng**, a **1rd Ph.D. student at Southeast University**. I earn my bachelor’s degree from **Wuhan University of Science and Technology**. 
 
-I am also the **co-founder of MindSparks AI**, focusing on **voice-agent**.
+I am also the **co-founder of MindSparks AI** and **Buckyball.**
 
 ### Interest
 - **AI agents**: Agentic AI Systems, Voice Agent.
