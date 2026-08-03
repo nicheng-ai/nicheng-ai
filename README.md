@@ -11,12 +11,13 @@
 
 ### About Me 👋
 
-I am **Ni Cheng**, a **1rd Ph.D. student at Southeast University**. I earn my bachelor’s degree from **Wuhan University of Science and Technology**. 
+I am **Ni Cheng**, a **1rd Ph.D. student at SEU(Southeast University)**. I earn my bachelor’s degree from **WUST(Wuhan University of Science and Technology)**. 
 
 I am also the **co-founder of MindSparks AI** and **Buckyball.**
 
 ### Interest
-- **AI agents**: Agentic AI Systems, Voice Agent.
+- **AI agents**: Agentic AI Systems, Voice Agent, AI-Native Hiring System.
+- **AI for Chips**: LLM-Aided Chip design & Verification.
 - **Chip design verification**: CPU/GPU design & verification.
 
 ### Homepages & Media
