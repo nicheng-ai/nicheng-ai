@@ -17,7 +17,7 @@ I am also the **co-founder of MindSparks AI** and **Buckyball.**
 
 ### Interest
 - **AI agents**: Agentic AI Systems, Voice Agent, AI-Native Hiring System.
-- **AI for Chips**: LLM-Aided Chip design & Verification.
+- **AI for Chips**: LLM-Aided Chip design & verification.
 - **Chip design verification**: CPU/GPU design & verification.
 
 ### Homepages & Media
