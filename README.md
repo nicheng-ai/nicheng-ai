@@ -1,29 +1,33 @@
-![Profile Views](https://komarev.com/ghpvc/?username=sigeward-king&color=3776AB&style=flat&label=Profile%20Views)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Chisel](https://img.shields.io/badge/Chisel-CA2C92?style=flat&logo=data:image/svg+xml)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1A6B8A?style=flat&logo=data:image/svg+xml)
-![Verilog](https://img.shields.io/badge/Verilog-0A5F99?style=flat&logo=data:image/svg+xml)
+<div align="center">
 
-<img align="right" 
-     src="https://github-readme-stats-fast.vercel.app/api?username=nicheng-ai&show_icons=true&theme=buefy"
-     width="380" />
+## Hi, I'm Nick 
+<p>
+<a href="https://nicheng-ai.github.io/cheng-page/">🏠 Homepage</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=hcKE6r4AAAAJ&hl=zh-CN">📄 Google Scholar</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.xiaohongshu.com/user/profile/63832530000000001f01cce3">📌 RedNote</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:chengni2001@gmail.com">📧 Email</a>
+</p>
 
-### About Me 👋
+### ◉ About Me
 
-I am **Ni Cheng**, a **1rd Ph.D. student at SEU(Southeast University)**. I earn my bachelor’s degree from **WUST(Wuhan University of Science and Technology)**. 
+<p>
+Ph.D. Student @ <a href="https://www.seu.edu.cn/"><b>SEU</b></a> · AI Agents × Chip Design<br>
+B.Eng. @ <a href="https://www.wust.edu.cn/"><b>WUST</b></a> · Co-founder of <b>MindSparks AI</b> & <b>Buckyball</b>
+</p>
 
-I am also the **co-founder of MindSparks AI** and **Buckyball.**
+### ◉ Research Interests
 
-### Interest
-- **AI agents**: Agentic AI Systems, Voice Agent, AI-Native Hiring System.
-- **AI for Chips**: LLM-Aided Chip design & verification.
-- **Chip design verification**: CPU/GPU design & verification.
+<p>
+<b>LLM-Aided Chip Design & Verification</b> · <b>AI-Native Systems</b>
+</p>
 
-### Homepages & Media
-- **Homepage**: 🏠 [Homepage](https://nicheng-ai.github.io/cheng-page/)
-- **Google Scolar**: 📄 [Google Scholar](https://scholar.google.com/citations?user=hcKE6r4AAAAJ&hl=zh-CN)
-- **Rednote**: 📌 [Rednote](https://www.xiaohongshu.com/user/profile/63832530000000001f01cce3)
-- **Email**: chengni2001@gmail.com 
 
-<br clear="right"/>
+<sub>
+<b>AI Agents · AI for Chips · Hardware Design · Hiring Agents</b>
+</sub>
+
+</div>
+
