@@ -1,6 +1,11 @@
 <div align="center">
 
-## Hi, I'm Nick 
+### About Me
+<p>
+Ph.D. Student @ <a href="https://www.seu.edu.cn/"><b>SEU</b></a> · AI Agents × Chip Design<br>
+B.Eng. @ <a href="https://www.wust.edu.cn/"><b>WUST</b></a> · Co-founder of <b>MindSparks AI</b> & <b>Buckyball</b>
+</p>
+
 <p>
 <a href="https://nicheng-ai.github.io/cheng-page/">🏠 Homepage</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -10,20 +15,6 @@
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:chengni2001@gmail.com">📧 Email</a>
 </p>
-
-### ◉ About Me
-
-<p>
-Ph.D. Student @ <a href="https://www.seu.edu.cn/"><b>SEU</b></a> · AI Agents × Chip Design<br>
-B.Eng. @ <a href="https://www.wust.edu.cn/"><b>WUST</b></a> · Co-founder of <b>MindSparks AI</b> & <b>Buckyball</b>
-</p>
-
-### ◉ Research Interests
-
-<p>
-<b>LLM-Aided Chip Design & Verification</b> · <b>AI-Native Systems</b>
-</p>
-
 
 <sub>
 <b>AI Agents · AI for Chips · Hardware Design · Hiring Agents</b>
